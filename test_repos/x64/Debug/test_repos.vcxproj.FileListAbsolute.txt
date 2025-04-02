@@ -1,0 +1,3 @@
+E:\KPI\IT\x64\Debug\gtest.pdb
+E:\KPI\IT\x64\Debug\gtest_main.pdb
+E:\KPI\IT\test_repos\x64\Debug\test_rep.A9F5781E.Up2Date
